@@ -6,7 +6,7 @@ Create a function that returns the array elements arranged from outermost elemen
 
 ### Solution:
 
-- written in javascript.
+###### written in javascript.
 
 This solution includes four steps.
 
