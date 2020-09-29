@@ -8,7 +8,7 @@ Create a function that returns the array elements arranged from outermost elemen
 
 - written in javascript.
 
-The solution included four steps.
+This solution includes four steps.
 
 ![graph](./graph.jpg)
 
